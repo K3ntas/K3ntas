@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Karolis
+![GitHub Snake 3D](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
 ### 💻 Learning
 - C#
